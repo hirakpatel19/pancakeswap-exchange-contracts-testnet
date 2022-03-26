@@ -1,0 +1,5 @@
+# PanCake Exchange Contracts 🥞
+
+PancakeFactoryV2: 0x0a2255E10C0ffEEa9122D1D5d1F7d750412506a0 
+
+PancakeRouterV2: 0xf3e4773A45fC572263a391E7fC7A721530bABf85
